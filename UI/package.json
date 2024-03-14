@@ -1,0 +1,13 @@
+{
+  "name": "TheLastOne",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liukunup/TheLastOne.git",
+  "author": "Liu Kun <liukunup@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.27"
+  },
+  "scripts": {}
+}
